@@ -26,5 +26,5 @@
         <Text text="Compétence 6" x="26" y="99" />
         <Pane fx:id="toile" styleClass="toile" />
     </Pane>
-   <VBox prefHeight="200.0" prefWidth="100.0" />
+   <VBox prefHeight="420.0" prefWidth="235.0" />
 </HBox>
